@@ -1,6 +1,5 @@
 const partConfig = {
-  parts: {
-    [
+  parts: [
       "TAIL",
       "WINGS",
       "BODY",
@@ -10,8 +9,7 @@ const partConfig = {
       "NOSE",
       "HORNS",
       "HAT"
-    ]
-  },
+    ],
   count: {
     TAIL : 1,
     WINGS: 1,
