@@ -1,4 +1,4 @@
-const partConfig = {
+export const partConfig = {
   parts: [
       "TAIL",
       "WINGS",
@@ -23,4 +23,4 @@ const partConfig = {
   }
 };
 
-module.exports = partConfig;
+export default partConfig
