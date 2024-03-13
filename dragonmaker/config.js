@@ -20,5 +20,11 @@ const partConfig = {
     NOSE : 24,
     HORNS : 33,
     HAT : 1
+  },
+  colours:{
+    PRIMARY: [255, 114, 150], 
+    SECONDARY: [255, 177, 197], 
+    DETAILS: [255, 187, 64], 
+    EYES: [255, 67, 53]
   }
 };
