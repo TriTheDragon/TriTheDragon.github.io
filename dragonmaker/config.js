@@ -11,7 +11,7 @@ export const partConfig = {
       "HAT"
     ],
   count: {
-    TAIL : 21,
+    TAIL : 22,
     WINGS: 21,
     BODY : 21,
     EYES : 30,
