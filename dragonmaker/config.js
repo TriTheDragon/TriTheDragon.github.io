@@ -1,4 +1,4 @@
-export const partConfig = {
+const partConfig = {
   parts: [
       "TAIL",
       "WINGS",
@@ -22,5 +22,3 @@ export const partConfig = {
     HAT : 1
   }
 };
-
-export default partConfig
