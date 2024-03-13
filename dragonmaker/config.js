@@ -18,7 +18,7 @@ export const partConfig = {
     GLASSES : 1,
     EARS : 25,
     NOSE : 20,
-    HORNS : 28,
+    HORNS : 30,
     HAT : 1
   }
 };
