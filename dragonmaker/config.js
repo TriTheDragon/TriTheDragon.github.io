@@ -21,6 +21,7 @@ const partConfig = {
     HORNS : 33,
     HAT : 1
   },
+  defaultParts: "BAU4AQQBA",
   colours:{
     PRIMARY: [255, 114, 150], 
     SECONDARY: [255, 177, 197], 
