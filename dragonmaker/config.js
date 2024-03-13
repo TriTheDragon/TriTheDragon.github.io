@@ -25,6 +25,6 @@ const partConfig = {
     PRIMARY: [255, 114, 150], 
     SECONDARY: [255, 177, 197], 
     DETAILS: [255, 187, 64], 
-    EYES: [255, 67, 53]
+    EYECOL: [255, 67, 53]
   }
 };
