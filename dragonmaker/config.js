@@ -17,7 +17,7 @@ const partConfig = {
     EYES : 33,
     GLASSES : 1,
     EARS : 34,
-    NOSE : 29,
+    NOSE : 32,
     HORNS : 33,
     HAT : 1
   },
