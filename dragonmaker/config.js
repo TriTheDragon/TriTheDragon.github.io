@@ -14,7 +14,7 @@ const partConfig = {
     TAIL : 30,
     WINGS: 24,
     BODY : 29,
-    EYES : 31,
+    EYES : 33,
     GLASSES : 1,
     EARS : 34,
     NOSE : 29,
