@@ -12,7 +12,7 @@ const partConfig = {
     ],
   count: {
     TAIL : 35,
-    WINGS: 24,
+    WINGS: 26,
     BODY : 29,
     EYES : 33,
     GLASSES : 1,
