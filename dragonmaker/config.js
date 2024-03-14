@@ -3,6 +3,7 @@ const partConfig = {
       "TAIL",
       "WINGS",
       "BODY",
+      "NECKLACE",
       "EYES",
       "GLASSES",
       "EARS",
@@ -14,6 +15,7 @@ const partConfig = {
     TAIL : 35,
     WINGS: 26,
     BODY : 29,
+    NECKLACE : 34,
     EYES : 33,
     GLASSES : 1,
     EARS : 34,
@@ -26,6 +28,8 @@ const partConfig = {
     PRIMARY: [255, 114, 150], 
     SECONDARY: [255, 177, 197], 
     DETAILS: [255, 187, 64], 
-    EYECOL: [255, 67, 53]
+    EYECOL: [255, 67, 53],
+    NECK1: [103, 255, 62],
+    NECK2: [51, 147, 25]
   }
 };
