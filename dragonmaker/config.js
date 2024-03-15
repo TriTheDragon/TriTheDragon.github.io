@@ -20,7 +20,7 @@ const partConfig = {
     GLASSES : 1,
     EARS : 34,
     NOSE : 32,
-    HORNS : 33,
+    HORNS : 73,
     HAT : 1
   },
   defaultParts: "010014001D0010100100",
