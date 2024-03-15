@@ -16,7 +16,7 @@ const partConfig = {
     WINGS: 26,
     BODY : 29,
     NECKLACE : 38,
-    EYES : 33,
+    EYES : 39,
     GLASSES : 1,
     EARS : 36,
     NOSE : 32,
